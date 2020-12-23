@@ -1,0 +1,6 @@
+/Users/irazozulya/Projects/OS_Lab5/OS_Lab5/obj/Debug/OS_Lab5.csprojAssemblyReference.cache
+/Users/irazozulya/Projects/OS_Lab5/OS_Lab5/obj/Debug/OS_Lab5.csproj.CoreCompileInputs.cache
+/Users/irazozulya/Projects/OS_Lab5/OS_Lab5/bin/Debug/OS_Lab5.exe
+/Users/irazozulya/Projects/OS_Lab5/OS_Lab5/bin/Debug/OS_Lab5.pdb
+/Users/irazozulya/Projects/OS_Lab5/OS_Lab5/obj/Debug/OS_Lab5.exe
+/Users/irazozulya/Projects/OS_Lab5/OS_Lab5/obj/Debug/OS_Lab5.pdb
